@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan who is full stack developer from Belarus.
+- 👋 Hi, I’m **Ivan** who is full stack developer from Belarus.
 - My expertise area: React/Redux, Node.js, TypeScript, GraphQL/Apollo, 
 -                    Web3.js, Solana, Ethereum
 - 📫 How to reach me : email: cherkasivan15@gmail.com
